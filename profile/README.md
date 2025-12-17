@@ -16,4 +16,4 @@ This is the official FragMC github page.
 ---
 
 
-We reserve all rights to "FragMC". Any misuse of this name is not right.
+We reserve all rights to the name FragMC. Any unauthorized use of this name is prohibited.
