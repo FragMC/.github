@@ -14,9 +14,9 @@
 This is the official FragMC github page. We develop Minecraft's new era of parkour.
 
 ## Our projects
-- [IcedSpear](Icedspear) - Our core parkour plugin
-- [Telepipe](Telepipe) - JSON-based telports
-- [CheckPoints](CheckPoints) - Checkpoints system for Minecraft
+- [IcedSpear](https://github.com/FragMC/Icedspear) - Our core parkour plugin
+- [Telepipe](https://github.com/FragMC/Telepipe) - JSON-based telports
+- [CheckPoints](https://github.com/FragMC/CheckPoints) - Checkpoints system for Minecraft
 
 ---
 
