@@ -11,7 +11,12 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-This is the official FragMC github page.
+This is the official FragMC github page. We develop Minecraft's new era of parkour.
+
+## Our projects
+- [IcedSpear](Icedspear) - Our core parkour plugin
+- [Telepipe](Telepipe) - JSON-based telports
+- [CheckPoints](CheckPoints) - Checkpoints system for Minecraft
 
 ---
 
